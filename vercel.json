@@ -1,0 +1,9 @@
+{
+    "redirects": [
+      { 
+        "source": "/rickroll",
+        "destination": "./rickroll.html", 
+        "permanent": true
+      }
+    ]
+  }
